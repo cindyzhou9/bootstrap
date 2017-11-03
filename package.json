@@ -85,6 +85,7 @@
     "babel-eslint": "^8.0.0",
     "babel-plugin-external-helpers": "7.0.0-beta.2",
     "babel-plugin-transform-es2015-modules-strip": "^0.1.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "2.0.0-beta.2",
     "bundlesize": "^0.15.2",
     "clean-css-cli": "^4.1.6",
